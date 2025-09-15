@@ -48,13 +48,6 @@ function mousePressed(){
 }
 
 
-
-
-
-
-
-
-
 function movement() {
   // check for keyboard presses each frome 
   // and more the rectangle accordingly
