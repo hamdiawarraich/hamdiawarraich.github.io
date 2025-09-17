@@ -47,6 +47,10 @@ function mousePressed(){
 
 }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3d137e9808e742f61a18bb82d04550bb1f3e9834
 function movement() {
   // check for keyboard presses each frome 
   // and more the rectangle accordingly
