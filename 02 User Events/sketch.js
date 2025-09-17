@@ -47,14 +47,6 @@ function mousePressed(){
 
 }
 
-
-
-
-
-
-
-
-
 function movement() {
   // check for keyboard presses each frome 
   // and more the rectangle accordingly
@@ -67,17 +59,6 @@ function movement() {
   if (keyIsDown(UP_ARROW)) x -= 5;
   if (keyIsDown(DOWN_ARROW)) x +Down
 }
-
-
-
-
-
-
-
-
-
-
-
 
 
 function keyPressed() {
